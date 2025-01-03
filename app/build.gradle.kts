@@ -37,6 +37,7 @@ android {
 
 dependencies {
 
+    implementation (libs.gson)
 
     implementation(libs.androidx.navigation.fragment)
     implementation(libs.androidx.navigation.ui)
